@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(98, 55, 55);
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body.about {
+  background-color: rgb(183, 190, 197);
+  color: rgb(21, 2, 68);
+}
+  img{
+    max-width: 45%;
+    width: 5000px;
+  }
+
+  section {
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 20px ;
+  } 
+
+  article {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(232, 240, 241);
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0);
+  }
+  h2 {
+    background-color: brown;
+    color: azure;
+  }
+  
+  nav a  {color: black;
+  }
+  nav  {
+  margin-bottom: 30px;
+  }
